@@ -1,3 +1,2 @@
-# random_quote_machine_freecodecamp_project
+# Preview: https://codepen.io/babanic/full/vdxddY/
 Project "Random Quote Machine" on freecodecamp
-Preview: https://codepen.io/babanic/full/vdxddY/
