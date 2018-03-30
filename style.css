@@ -1,0 +1,72 @@
+.container-fixed {
+	font-family: 'Mukta Mahee', sans-serif;
+	margin: 0 auto;
+  	max-width: 800px;
+	color: #c10000;
+	text-align: center;
+	margin-top: 100px;
+	margin-bot: 50px;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 5px solid hsl(0, 0%, 40%);
+	padding: 5px;
+  	background: hsl(0, 0%, 10%);
+	box-shadow:
+      0 0 0 10px hsl(0, 0%, 80%),
+      0 0 0 15px hsl(0, 0%, 90%);
+	
+}
+
+.img-responsive { 
+	margin: 0 auto; 
+}
+
+#txt {
+	font-family: 'Mukta Mahee', sans-serif;
+	font-size: 30px;
+	color: #ff828c;
+}
+
+#champ {
+	font-family: 'Mukta Mahee', sans-serif;
+	font-size: 15px;
+	color: #ff828c;
+}
+
+#b1 {
+	height: 28px;
+	width: 76px;
+	border-radius: 20%;
+	background-color: #c10000;
+    color: white;
+    border: 2px solid white;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+#b1:hover {
+    background-color: #0084b4; 
+    color: white;
+}
+
+#b2 {
+	height: 28px;
+	width: 76px;
+	border-radius: 10%;
+	background-color: #1dcaff;
+    color: white;
+    border: 2px solid white;
+	-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+#b2:hover {
+    background-color: #0084b4;
+    color: black;
+}
+
+.footer {
+	text-align: center;
+	color:blue;
+	font-family: 'Mukta Mahee', sans-serif;
+}
